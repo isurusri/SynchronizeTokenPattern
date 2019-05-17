@@ -23,5 +23,5 @@ Note:
 
 Auto generated UUIDs are used for Session ID and CSRF Token.
 
-Blog:
+Blog:https://sricybersecurity.blogspot.com/2019/05/using-synchronize-token.html
 
